@@ -1,0 +1,14 @@
+def add(a,b):
+	return (a+b)
+def subtrect(a,b):
+	return (a-b)
+def multiply(a,b):
+	return (a*b)
+def divizan(a,b):
+	return (a/b)
+def modul(a,b):
+	return (a%b)
+def sqer(a):
+	return (a**2)
+def qube(a):
+	return (a**3)
